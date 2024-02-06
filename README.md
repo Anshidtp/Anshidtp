@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Data Scientist diving deep into the world of AI!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshidtp&label=Profile%20views&color=0e75b6&style=flat" alt="anshidtp" /> </p>
-### About me :writing_hand:
+
+## About me :writing_hand:
 
 - 🔭 I’m currently working on cutting-edge projects involving Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI.
 
